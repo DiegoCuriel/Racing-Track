@@ -1,5 +1,5 @@
 # Racing-Track
-Developed a Racing Track simulation in order to predict and prevent collisions in dangerous areas. Implemented in Matlab.
+Developed a Racing Track simulation in order to predict and prevent collisions in dangerous areas. Implemented using Matlab.
 
 ## Authors 🖋
 - Diego Curiel - Developer
